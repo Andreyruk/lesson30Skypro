@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "nameRecipe": "Салат из красной фасоли с творожным сыром, красным луком и сезонным салатом",
+    "cookingTime": 7,
+    "measureUnitTime": "мин.",
+    "ingredients": [
+      {
+        "id": 12,
+        "nameIngredient": "Специи",
+        "quantity": 0,
+        "measureUnit": "по вкусу"
+      },
+      {
+        "id": 13,
+        "nameIngredient": "Консервированная фасоль",
+        "quantity": 400,
+        "measureUnit": "г"
+      },
+      {
+        "id": 14,
+        "nameIngredient": "Лимон",
+        "quantity": 1,
+        "measureUnit": "шт."
+      },
+      {
+        "id": 15,
+        "nameIngredient": "Чеснок",
+        "quantity": 2,
+        "measureUnit": "зубчика"
+      },
+      {
+        "id": 16,
+        "nameIngredient": "Оливковое масло",
+        "quantity": 50,
+        "measureUnit": "мл"
+      },
+      {
+        "id": 17,
+        "nameIngredient": "Рукола",
+        "quantity": 100,
+        "measureUnit": "г"
+      },
+      {
+        "id": 18,
+        "nameIngredient": "Творожный сыр",
+        "quantity": 200,
+        "measureUnit": "г"
+      },
+      {
+        "id": 19,
+        "nameIngredient": "Красный лук",
+        "quantity": 50,
+        "measureUnit": "г"
+      }
+    ],
+    "stepsCooking": [
+      "1:Открыть две банки красной фасоли в собственном соку, слить сок и промыть фасоль холодной водой.",
+      "2:Готовую фасоль смешать с мелко нарубленным красным луком, зеленью, давленым чесноком, оливковым маслом, лимонным соком и творожным сыром.",
+      "3:Посолить, поперчить, дать продуктам две минуты притереться друг к другу и подавать к столу."
+    ]
+  },
+  {
+    "id": 2,
+    "nameRecipe": "Салат с креветками и кунжутом",
+    "cookingTime": 20,
+    "measureUnitTime": "мин.",
+    "ingredients": [
+      {
+        "id": 5,
+        "nameIngredient": "Помидоры",
+        "quantity": 3,
+        "measureUnit": "шт."
+      },
+      {
+        "id": 6,
+        "nameIngredient": "Королевские креветки",
+        "quantity": 300,
+        "measureUnit": "г"
+      },
+      {
+        "id": 7,
+        "nameIngredient": "Зеленый салат",
+        "quantity": 1,
+        "measureUnit": "пучок"
+      },
+      {
+        "id": 8,
+        "nameIngredient": "Огурцы",
+        "quantity": 2,
+        "measureUnit": "шт."
+      },
+      {
+        "id": 9,
+        "nameIngredient": "Специи",
+        "quantity": 0,
+        "measureUnit": "по вкусу"
+      },
+      {
+        "id": 10,
+        "nameIngredient": "Майонез ",
+        "quantity": 0,
+        "measureUnit": "по вкусу"
+      },
+      {
+        "id": 11,
+        "nameIngredient": "Кунжутные семечки",
+        "quantity": 3,
+        "measureUnit": "ст.л."
+      }
+    ],
+    "stepsCooking": [
+      "1: Порезать овощи крупно, салат порвать на куски.",
+      "2: Довести до кипения сильно соленую воду и добавить креветки. После кипения варить 5 минут.",
+      "3: Очистить креветки от панциря.",
+      "4: Смешать овощи и креветки.",
+      "5: Посыпать кунжутными семечками и заправить майонезом."
+    ]
+  }
+]
